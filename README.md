@@ -1,2 +1,3 @@
-# baby-s-first-java-game
-first 2d java game
+Don't use this one, it's depracted
+
+use First-2D-Game
